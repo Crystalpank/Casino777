@@ -1,0 +1,47 @@
+.btn-info {
+    background-color: var(--color-info);
+}
+
+.btn-info:hover {
+    background-color: var(--color-gold);
+}
+
+.navbar-title {
+    margin-right: 1rem;
+    line-height: 22px;
+}
+
+.navbar-titles {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.my-brand-logo {
+    width: 100%;
+    text-align: center;
+}
+
+.app ul.sidenav {
+    background-color: var(--main-background);
+}
+
+.black.container-navbar>.container.nav-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.container-navbar .brand-logo {
+    position: relative;
+}
+
+.my-brand-logo.brand-logo {
+    flex: 2;
+}
+
+ul.hide-on-med-and-down.right {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}

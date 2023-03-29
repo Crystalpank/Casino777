@@ -1,0 +1,8 @@
+{
+    "dbURL": "mongodb://0.0.0.0:27017/Casino",
+    "PORT": 5000,
+    "PORT_SOCK": 7000,
+    "secretJWT": "",
+    "gameSeed": "",
+    "firstRoundHash": ""
+}
